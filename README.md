@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jemima247
-- 👀 I’m interested in Computer Science and Mathematics 
-- 🌱 I’m currently learning Java 
+- 👀 I’m a Computer Science student and researcher 
+- 🌱 I’m also interested in SWE and Quantum computing
 - 💞️ I’m looking to collaborate on any interesting programing language or operating system projects
 - 📫 How to reach me alabijem@grinnell.edu
 
